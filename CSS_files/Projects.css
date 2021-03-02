@@ -1,3 +1,12 @@
+/*custom font*/
+@font-face {
+	font-family: 'Gameplay';
+	src: url('fonts/Gameplay/gameplay-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+/*end custom Font*/
+
 html {
 	background-color: black;
 }
@@ -6,6 +15,7 @@ body
 {
 	font-family : Tahoma;
 }
+
 
 
 
@@ -31,4 +41,9 @@ body
 {
 	border-top : 4px solid #c3073f;
 	border-bottom : 4px solid #c3073f;
+}
+
+.main_heading
+{
+	font-family : Gameplay, Georgia;
 }
