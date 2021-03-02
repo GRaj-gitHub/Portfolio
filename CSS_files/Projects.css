@@ -1,11 +1,11 @@
-/*custom font*/
+/*custom font
 @font-face {
 	font-family: 'Gameplay';
 	src: url('fonts/Gameplay/gameplay-webfont.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
 }
-/*end custom Font*/
+end custom Font*/
 
 html {
 	background-color: black;
