@@ -9,6 +9,7 @@ end custom Font*/
 
 html {
 	background-color: black;
+	background-image: url('images/project_bg.jpg');
 }
 
 body
@@ -24,8 +25,9 @@ body
 	margin-left: auto;
 	margin-right: auto;
 	background-color: black;
-	border: 5px solid #c3073f;
-	color: #c3073f;
+	background-color: rgba(0,0,0,.75);
+	border: 5px solid #f61fa4;
+	color: #03fcf8;
 	padding-left: 20px;
 	padding-right: 20px;
 	padding-top: 0.5px;
@@ -37,9 +39,8 @@ body
 	text-align :center;
 }
 
-.content_area
-{
-	border-top : 4px solid #c3073f;
-	border-bottom : 4px solid #c3073f;
+.content_area {
+	border-top: 4px solid #f61fa4;
+	border-bottom: 4px solid #f61fa4;
 }
 
